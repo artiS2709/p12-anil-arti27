@@ -1,3 +1,4 @@
+//divideArray into OddEven and SortArray
 function divideArray(nums){
     let evenNums = [];
     let oddNums = [];
